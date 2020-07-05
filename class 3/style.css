@@ -1,0 +1,21 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(to top, orange 0%, tomato 100%);
+}
+div{
+    background-color: white;
+    margin: 100px 300px 100px 300px;
+    text-align: center;
+    padding: 30px;
+    box-shadow: opx 4px 4px gray;
+}
+img{
+    height: 150px;
+    width: 150px;
+    border: 3px solid orange;
+    border-radius: 50%;
+}
+hr{
+    width: 400px;
+    color: gray;
+}
